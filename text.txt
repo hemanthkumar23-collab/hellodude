@@ -1,1 +1,1 @@
-city : Channai
+city : Bangalore
