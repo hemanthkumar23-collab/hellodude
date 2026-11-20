@@ -1,2 +1,1 @@
-player : Dhoni
-
+player : Virat Kohli
